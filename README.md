@@ -15,6 +15,8 @@ Cooklang on merkintäkieli reseptien kirjoittamiseen. Se erottaa automaattisesti
 | `~` | Aika | `~{15 minuuttia}` |
 | `>>` | Reseptin nimi | `>> Lasagne` |
 
+Syntaksi pakottaa reseptit jokseenkin tönkkösuomeksi, jotta homma toimii (ks. esimerkki alla)
+
 ### Esimerkki
 
 ```
