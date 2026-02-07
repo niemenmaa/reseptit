@@ -1,0 +1,79 @@
+{
+  "title": "Lohipasta",
+  "ingredients": [
+    {
+      "name": "sipuli",
+      "amount": [
+        "1",
+        "kpl"
+      ]
+    },
+    {
+      "name": "parsakaali",
+      "amount": [
+        "200",
+        "g"
+      ]
+    },
+    {
+      "name": "lohifilee",
+      "amount": [
+        "500",
+        "g"
+      ]
+    },
+    {
+      "name": "sitruunapippuri",
+      "amount": []
+    },
+    {
+      "name": "ruokakerma",
+      "amount": [
+        "5",
+        "dl"
+      ]
+    },
+    {
+      "name": "pasta",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuullota sipuli rasvassa.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Kiehauta parsakaali pienessä vesimäärässä ja valuta.",
+      "ingredients": [
+        1
+      ]
+    },
+    {
+      "description": "Poista ruodot ja nahka lohifilee ja leikkaa suikaleiksi.",
+      "ingredients": [
+        2
+      ]
+    },
+    {
+      "description": "Lisää pannulle parsakaali, lohifilee, sitruunapippuri ja ruokakerma.",
+      "ingredients": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "description": "Kuumenna kiehuvaksi ja sekoita varoen."
+    },
+    {
+      "description": "Yhdistä kastike keitettyyn pasta. Kuumenna ja tarjoa.",
+      "ingredients": [
+        5
+      ]
+    }
+  ]
+}

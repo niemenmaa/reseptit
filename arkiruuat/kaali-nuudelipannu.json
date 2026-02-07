@@ -1,0 +1,85 @@
+{
+  "title": "Kaali-nuudelipannu",
+  "ingredients": [
+    {
+      "name": "soijarouhe",
+      "amount": [
+        "2",
+        "dl"
+      ]
+    },
+    {
+      "name": "valkokaali",
+      "amount": [
+        "500",
+        "g"
+      ]
+    },
+    {
+      "name": "porkkana",
+      "amount": [
+        "2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "rypsioljy",
+      "amount": []
+    },
+    {
+      "name": "nuudeli",
+      "amount": [
+        "2",
+        "pkt"
+      ]
+    },
+    {
+      "name": "soijakastike",
+      "amount": [
+        "4",
+        "rkl"
+      ]
+    },
+    {
+      "name": "seesaminsiemen",
+      "amount": [
+        "3",
+        "rkl"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "description": "Liota soijarouhe.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Paista valkokaali ja porkkana rypsioljy.",
+      "ingredients": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "description": "Lisää nuudeli.",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "description": "Mausta soijakastike.",
+      "ingredients": [
+        5
+      ]
+    },
+    {
+      "description": "Viimeistele seesaminsiemen.",
+      "ingredients": [
+        6
+      ]
+    }
+  ]
+}

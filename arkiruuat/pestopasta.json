@@ -1,0 +1,82 @@
+{
+  "title": "Pestopasta",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": [
+        "400",
+        "g"
+      ]
+    },
+    {
+      "name": "valkosipuli",
+      "amount": [
+        "4",
+        "kyntta"
+      ]
+    },
+    {
+      "name": "oljy",
+      "amount": []
+    },
+    {
+      "name": "kerma",
+      "amount": [
+        "2",
+        "dl"
+      ]
+    },
+    {
+      "name": "pesto",
+      "amount": [
+        "4",
+        "rkl"
+      ]
+    },
+    {
+      "name": "parmesaani",
+      "amount": [
+        "1",
+        "dl"
+      ]
+    },
+    {
+      "name": "suola",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Keitä pasta.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Kuullota valkosipuli oljy.",
+      "ingredients": [
+        1,
+        2
+      ]
+    },
+    {
+      "description": "Lisää kerma ja pesto.",
+      "ingredients": [
+        3,
+        4
+      ]
+    },
+    {
+      "description": "Sekoita joukkoon parmesaani.",
+      "ingredients": [
+        5
+      ]
+    },
+    {
+      "description": "Mausta suola.",
+      "ingredients": [
+        6
+      ]
+    }
+  ]
+}

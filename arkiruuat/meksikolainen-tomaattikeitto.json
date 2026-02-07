@@ -1,0 +1,132 @@
+{
+  "title": "Meksikolainen tomaattikeitto",
+  "ingredients": [
+    {
+      "name": "sipuli",
+      "amount": [
+        "1",
+        "kpl"
+      ]
+    },
+    {
+      "name": "valkosipuli",
+      "amount": [
+        "3",
+        "kyntta"
+      ]
+    },
+    {
+      "name": "oliivioljy",
+      "amount": []
+    },
+    {
+      "name": "porkkana",
+      "amount": [
+        "2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "tomaattimurska",
+      "amount": [
+        "400",
+        "g"
+      ]
+    },
+    {
+      "name": "chili",
+      "amount": []
+    },
+    {
+      "name": "fariinisokeri",
+      "amount": []
+    },
+    {
+      "name": "suola",
+      "amount": []
+    },
+    {
+      "name": "oregano",
+      "amount": []
+    },
+    {
+      "name": "mustapippuri",
+      "amount": []
+    },
+    {
+      "name": "mustapapu",
+      "amount": [
+        "1",
+        "tlk"
+      ]
+    },
+    {
+      "name": "limetti",
+      "amount": []
+    },
+    {
+      "name": "korianteri",
+      "amount": []
+    },
+    {
+      "name": "jogurtti",
+      "amount": []
+    },
+    {
+      "name": "nacho",
+      "amount": []
+    },
+    {
+      "name": "kana",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuullota sipuli ja valkosipuli oliivioljy.",
+      "ingredients": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "description": "Lisää porkkana ja kuullota hetki.",
+      "ingredients": [
+        3
+      ]
+    },
+    {
+      "description": "Lisää tomaattimurska.",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "description": "Mausta chili, fariinisokeri, suola, oregano ja mustapippuri.",
+      "ingredients": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "description": "Lisää mustapapu.",
+      "ingredients": [
+        10
+      ]
+    },
+    {
+      "description": "Tarjoa limetti, korianteri, jogurtti, nacho ja kana kanssa.",
+      "ingredients": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ]
+}

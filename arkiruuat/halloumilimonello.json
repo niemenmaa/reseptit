@@ -1,0 +1,116 @@
+{
+  "title": "Halloumilimonello",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": [
+        "300",
+        "g"
+      ]
+    },
+    {
+      "name": "sitruuna",
+      "amount": [
+        "1/2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "halloumi",
+      "amount": [
+        "1",
+        "pkt"
+      ]
+    },
+    {
+      "name": "salottisipuli",
+      "amount": [
+        "1",
+        "kpl"
+      ]
+    },
+    {
+      "name": "valkosipuli",
+      "amount": [
+        "2",
+        "kyntta"
+      ]
+    },
+    {
+      "name": "voi",
+      "amount": [
+        "2",
+        "rkl"
+      ]
+    },
+    {
+      "name": "hunaja",
+      "amount": [
+        "1.5",
+        "rkl"
+      ]
+    },
+    {
+      "name": "kurkuma",
+      "amount": [
+        "1",
+        "rkl"
+      ]
+    },
+    {
+      "name": "turkkilainen jogurtti",
+      "amount": [
+        "2",
+        "dl"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "description": "Keitä pasta.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Raasta sitruuna kuori ja purista mehu.",
+      "ingredients": [
+        1
+      ]
+    },
+    {
+      "description": "Paloittele halloumi ja ruskista pannulla, siirrä sivuun.",
+      "ingredients": [
+        2
+      ]
+    },
+    {
+      "description": "Hienonna salottisipuli ja valkosipuli, pehmennä voi.",
+      "ingredients": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "description": "Lisää sitruuna, hunaja ja kurkuma.",
+      "ingredients": [
+        6,
+        7
+      ]
+    },
+    {
+      "description": "Lisää halloumi ja keitetty pasta, sammuta liesi.",
+      "ingredients": [
+        2,
+        0
+      ]
+    },
+    {
+      "description": "Lisää turkkilainen jogurtti ja sekoita.",
+      "ingredients": [
+        8
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Spagetti bolognese",
+  "ingredients": [
+    {
+      "name": "spagetti",
+      "amount": [
+        "300",
+        "g"
+      ]
+    },
+    {
+      "name": "jauheliha",
+      "amount": [
+        "400",
+        "g"
+      ]
+    },
+    {
+      "name": "paseerattu tomaatti",
+      "amount": [
+        "1",
+        "prk"
+      ]
+    },
+    {
+      "name": "kaurakerma",
+      "amount": [
+        "1",
+        "prk"
+      ]
+    },
+    {
+      "name": "oregano",
+      "amount": []
+    },
+    {
+      "name": "pippuri",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Keitä spagetti.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Paista jauheliha.",
+      "ingredients": [
+        1
+      ]
+    },
+    {
+      "description": "Lisää paseerattu tomaatti ja kaurakerma.",
+      "ingredients": [
+        2,
+        3
+      ]
+    },
+    {
+      "description": "Mausta oregano ja pippuri.",
+      "ingredients": [
+        4,
+        5
+      ]
+    },
+    {
+      "description": "Kiehauta kastike."
+    }
+  ]
+}

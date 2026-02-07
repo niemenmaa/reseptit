@@ -1,0 +1,235 @@
+{
+  "title": "Bibimbap",
+  "sections": [
+    {
+      "title": "Ohjeet",
+      "ingredients": [
+        {
+          "name": "jauheliha",
+          "amount": [
+            "400",
+            "g"
+          ]
+        },
+        {
+          "name": "soijakastike",
+          "amount": [
+            "4",
+            "rkl"
+          ]
+        },
+        {
+          "name": "seesamioljy",
+          "amount": [
+            "4",
+            "rkl"
+          ]
+        },
+        {
+          "name": "ruskea sokeri",
+          "amount": [
+            "4",
+            "tl"
+          ]
+        },
+        {
+          "name": "valkosipuli",
+          "amount": [
+            "1",
+            "tl"
+          ]
+        },
+        {
+          "name": "kananmuna",
+          "amount": [
+            "4",
+            "kpl"
+          ]
+        },
+        {
+          "name": "jasmiiniriisi",
+          "amount": [
+            "4",
+            "annosta"
+          ]
+        },
+        {
+          "name": "kimchi",
+          "amount": []
+        },
+        {
+          "name": "pak choi",
+          "amount": []
+        }
+      ],
+      "phases": [
+        {
+          "description": "Paista jauheliha.",
+          "ingredients": [
+            0
+          ]
+        },
+        {
+          "description": "Lisää soijakastike, seesamioljy, ruskea sokeri ja valkosipuli.",
+          "ingredients": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "description": "Paista kananmuna.",
+          "ingredients": [
+            5
+          ]
+        },
+        {
+          "description": "Tarjoa jasmiiniriisi, kimchi ja pak choi kanssa.",
+          "ingredients": [
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bibimbap-kastike",
+      "ingredients": [
+        {
+          "name": "gochujang",
+          "amount": [
+            "2",
+            "rkl"
+          ]
+        },
+        {
+          "name": "seesamioljy",
+          "amount": [
+            "4",
+            "rkl"
+          ]
+        },
+        {
+          "name": "sokeri",
+          "amount": [
+            "1",
+            "rkl"
+          ]
+        },
+        {
+          "name": "vesi",
+          "amount": [
+            "1",
+            "rkl"
+          ]
+        },
+        {
+          "name": "seesaminsiemen",
+          "amount": [
+            "1",
+            "rkl"
+          ]
+        },
+        {
+          "name": "omenaviinietikka",
+          "amount": [
+            "1",
+            "tl"
+          ]
+        },
+        {
+          "name": "valkosipuli",
+          "amount": [
+            "1",
+            "tl"
+          ]
+        }
+      ],
+      "phases": [
+        {
+          "description": "Sekoita gochujang, seesamioljy, sokeri, vesi,",
+          "ingredients": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "description": "seesaminsiemen, omenaviinietikka ja valkosipuli.",
+          "ingredients": [
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Miedompi soossi",
+      "ingredients": [
+        {
+          "name": "soijakastike",
+          "amount": [
+            "4",
+            "rkl"
+          ]
+        },
+        {
+          "name": "hunaja",
+          "amount": []
+        },
+        {
+          "name": "seesaminsiemen",
+          "amount": [
+            "1",
+            "rkl"
+          ]
+        },
+        {
+          "name": "seesamioljy",
+          "amount": [
+            "4",
+            "rkl"
+          ]
+        },
+        {
+          "name": "valkosipuli",
+          "amount": [
+            "1",
+            "tl"
+          ]
+        },
+        {
+          "name": "inkivaari",
+          "amount": []
+        },
+        {
+          "name": "etikka",
+          "amount": []
+        }
+      ],
+      "phases": [
+        {
+          "description": "Sekoita soijakastike, hunaja, seesaminsiemen, seesamioljy,",
+          "ingredients": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "description": "valkosipuli, inkivaari sekä etikka.",
+          "ingredients": [
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    }
+  ]
+}

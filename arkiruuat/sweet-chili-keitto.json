@@ -1,0 +1,113 @@
+{
+  "title": "Sweet chili -keitto",
+  "ingredients": [
+    {
+      "name": "peruna",
+      "amount": [
+        "600",
+        "g"
+      ]
+    },
+    {
+      "name": "porkkana",
+      "amount": [
+        "200",
+        "g"
+      ]
+    },
+    {
+      "name": "varsiselleri",
+      "amount": [
+        "200",
+        "g"
+      ]
+    },
+    {
+      "name": "vesi",
+      "amount": [
+        "0.7",
+        "l"
+      ]
+    },
+    {
+      "name": "kasvisliemikuutio",
+      "amount": [
+        "2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "jauheliha",
+      "amount": [
+        "300",
+        "g"
+      ]
+    },
+    {
+      "name": "suola",
+      "amount": [
+        "1/2",
+        "tl"
+      ]
+    },
+    {
+      "name": "laakerinlehti",
+      "amount": [
+        "3",
+        "kpl"
+      ]
+    },
+    {
+      "name": "mustapippuri",
+      "amount": [
+        "ripaus"
+      ]
+    },
+    {
+      "name": "sweet chili ruokakerma",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuori ja kuutioi peruna ja porkkana.",
+      "ingredients": [
+        0,
+        1
+      ]
+    },
+    {
+      "description": "Pilko varsiselleri.",
+      "ingredients": [
+        2
+      ]
+    },
+    {
+      "description": "Keitä vesi ja lisää kasvisliemikuutio.",
+      "ingredients": [
+        3,
+        4
+      ]
+    },
+    {
+      "description": "Lisää jauheliha ja anna kypsyä.",
+      "ingredients": [
+        5
+      ]
+    },
+    {
+      "description": "Mausta suola, laakerinlehti ja mustapippuri.",
+      "ingredients": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "description": "Lisää sweet chili ruokakerma.",
+      "ingredients": [
+        9
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Lohikeitto",
+  "ingredients": [
+    {
+      "name": "vesi",
+      "amount": [
+        "7",
+        "dl"
+      ]
+    },
+    {
+      "name": "peruna",
+      "amount": [
+        "6",
+        "kpl"
+      ]
+    },
+    {
+      "name": "porkkana",
+      "amount": [
+        "2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "laakerinlehti",
+      "amount": [
+        "1–2 kpl"
+      ]
+    },
+    {
+      "name": "kirjolohi",
+      "amount": [
+        "500",
+        "g"
+      ]
+    },
+    {
+      "name": "kuohukerma",
+      "amount": [
+        "2.5",
+        "dl"
+      ]
+    },
+    {
+      "name": "suola",
+      "amount": []
+    },
+    {
+      "name": "tilli",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuumenna vesi.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Lisää peruna ja porkkana kuutioina.",
+      "ingredients": [
+        1,
+        2
+      ]
+    },
+    {
+      "description": "Lisää laakerinlehti ja keitä, kunnes kypsiä.",
+      "ingredients": [
+        3
+      ]
+    },
+    {
+      "description": "Lisää kirjolohi paloina.",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "description": "Lisää kuohukerma.",
+      "ingredients": [
+        5
+      ]
+    },
+    {
+      "description": "Mausta suola ja tilli.",
+      "ingredients": [
+        6,
+        7
+      ]
+    }
+  ]
+}

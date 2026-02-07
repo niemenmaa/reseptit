@@ -1,0 +1,106 @@
+{
+  "title": "Uunilohi",
+  "sections": [
+    {
+      "title": "Ohjeet",
+      "ingredients": [
+        {
+          "name": "lohi",
+          "amount": [
+            "800",
+            "g"
+          ]
+        },
+        {
+          "name": "smetana",
+          "amount": []
+        },
+        {
+          "name": "sitruuna",
+          "amount": []
+        },
+        {
+          "name": "sitruunapippuri",
+          "amount": []
+        }
+      ],
+      "phases": [
+        {
+          "description": "Laita lohi uunivuokaan.",
+          "ingredients": [
+            0
+          ]
+        },
+        {
+          "description": "Levitä päälle smetana, sitruuna ja sitruunapippuri.",
+          "ingredients": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "description": "Paista uunissa, kunnes kypsää."
+        }
+      ]
+    },
+    {
+      "title": "Lohkoperuna",
+      "ingredients": [
+        {
+          "name": "peruna",
+          "amount": [
+            "1",
+            "kg"
+          ]
+        },
+        {
+          "name": "valkosipuli",
+          "amount": []
+        },
+        {
+          "name": "rosmariini",
+          "amount": []
+        },
+        {
+          "name": "oliivioljy",
+          "amount": []
+        },
+        {
+          "name": "suola",
+          "amount": []
+        },
+        {
+          "name": "cajunmauste",
+          "amount": []
+        },
+        {
+          "name": "cayennepippuri",
+          "amount": []
+        }
+      ],
+      "phases": [
+        {
+          "description": "Sekoita peruna, valkosipuli, rosmariini,",
+          "ingredients": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "description": "oliivioljy, suola, cajunmauste ja cayennepippuri.",
+          "ingredients": [
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "description": "Paista uunissa rapeaksi."
+        }
+      ]
+    }
+  ]
+}

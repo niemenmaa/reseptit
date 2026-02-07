@@ -1,0 +1,106 @@
+{
+  "title": "Panang curry",
+  "ingredients": [
+    {
+      "name": "kookosmaito",
+      "amount": [
+        "400",
+        "ml"
+      ]
+    },
+    {
+      "name": "panang curry paste",
+      "amount": [
+        "2",
+        "rkl"
+      ]
+    },
+    {
+      "name": "valkosipuli",
+      "amount": []
+    },
+    {
+      "name": "tofu",
+      "amount": [
+        "450",
+        "g"
+      ]
+    },
+    {
+      "name": "kalakastike",
+      "amount": [
+        "1–2 rkl"
+      ]
+    },
+    {
+      "name": "sokeri",
+      "amount": [
+        "1–2 rkl"
+      ]
+    },
+    {
+      "name": "limetinlehti",
+      "amount": [
+        "6",
+        "kpl"
+      ]
+    },
+    {
+      "name": "suolapahkina",
+      "amount": [
+        "2",
+        "rkl"
+      ]
+    },
+    {
+      "name": "jasmiiniriisi",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuumenna kookosmaito.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Lisää panang curry paste ja valkosipuli.",
+      "ingredients": [
+        1,
+        2
+      ]
+    },
+    {
+      "description": "Lisää tofu.",
+      "ingredients": [
+        3
+      ]
+    },
+    {
+      "description": "Mausta kalakastike ja sokeri.",
+      "ingredients": [
+        4,
+        5
+      ]
+    },
+    {
+      "description": "Lisää limetinlehti.",
+      "ingredients": [
+        6
+      ]
+    },
+    {
+      "description": "Viimeistele suolapahkina.",
+      "ingredients": [
+        7
+      ]
+    },
+    {
+      "description": "Tarjoa jasmiiniriisi kanssa.",
+      "ingredients": [
+        8
+      ]
+    }
+  ]
+}

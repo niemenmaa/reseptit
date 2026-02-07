@@ -1,0 +1,89 @@
+{
+  "title": "Bang bang -tortillat",
+  "sections": [
+    {
+      "title": "Ohjeet",
+      "ingredients": [
+        {
+          "name": "halloumi",
+          "amount": [
+            "2",
+            "kpl"
+          ]
+        },
+        {
+          "name": "tortillapohja",
+          "amount": []
+        },
+        {
+          "name": "salaatti",
+          "amount": []
+        },
+        {
+          "name": "paprika",
+          "amount": [
+            "1",
+            "kpl"
+          ]
+        },
+        {
+          "name": "retiisi",
+          "amount": []
+        }
+      ],
+      "phases": [
+        {
+          "description": "Paista halloumi.",
+          "ingredients": [
+            0
+          ]
+        },
+        {
+          "description": "Täytä tortillapohja salaatti, paprika ja retiisi.",
+          "ingredients": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "description": "Lisää halloumi.",
+          "ingredients": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kastike",
+      "ingredients": [
+        {
+          "name": "majoneesi",
+          "amount": []
+        },
+        {
+          "name": "sweet chili",
+          "amount": []
+        },
+        {
+          "name": "sriracha",
+          "amount": []
+        }
+      ],
+      "phases": [
+        {
+          "description": "Sekoita majoneesi, sweet chili ja sriracha.",
+          "ingredients": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "description": "Valuta kastike tortilloihin."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "title": "Lasagne",
+  "sections": [
+    {
+      "title": "Juustokastike",
+      "ingredients": [
+        {
+          "name": "voi",
+          "amount": [
+            "1",
+            "nokare"
+          ]
+        },
+        {
+          "name": "vehnäjauho",
+          "amount": [
+            "1",
+            "dl"
+          ]
+        },
+        {
+          "name": "maito",
+          "amount": [
+            "1",
+            "l"
+          ]
+        },
+        {
+          "name": "juustoraaste",
+          "amount": [
+            "150",
+            "g"
+          ]
+        },
+        {
+          "name": "suola",
+          "amount": [
+            "ripaus"
+          ]
+        },
+        {
+          "name": "valkopippuri",
+          "amount": [
+            "ripaus"
+          ]
+        }
+      ],
+      "phases": [
+        {
+          "description": "Sulata voi kattilassa.",
+          "ingredients": [
+            0
+          ]
+        },
+        {
+          "description": "Lisää vehnäjauho ja sekoita, älä ruskista.",
+          "ingredients": [
+            1
+          ]
+        },
+        {
+          "description": "Lisää maito vähitellen sekoittaen.",
+          "ingredients": [
+            2
+          ]
+        },
+        {
+          "description": "Anna kiehua noin 5 minuuttia välillä sekoittaen."
+        },
+        {
+          "description": "Ota pois liedeltä ja lisää juustoraaste.",
+          "ingredients": [
+            3
+          ]
+        },
+        {
+          "description": "Mausta suola ja valkopippuri.",
+          "ingredients": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jauhelihakastike",
+      "ingredients": [
+        {
+          "name": "jauheliha",
+          "amount": [
+            "400",
+            "g"
+          ]
+        },
+        {
+          "name": "sipuli",
+          "amount": [
+            "2",
+            "kpl"
+          ]
+        },
+        {
+          "name": "tomaattimurska",
+          "amount": [
+            "400",
+            "g"
+          ]
+        },
+        {
+          "name": "kerma",
+          "amount": [
+            "1",
+            "loraus"
+          ]
+        },
+        {
+          "name": "pippurisekoitus",
+          "amount": []
+        },
+        {
+          "name": "grillausmauste",
+          "amount": []
+        },
+        {
+          "name": "valkosipuli",
+          "amount": []
+        },
+        {
+          "name": "oregano",
+          "amount": []
+        }
+      ],
+      "phases": [
+        {
+          "description": "Ruskista jauheliha ja sipuli pannulla.",
+          "ingredients": [
+            0,
+            1
+          ]
+        },
+        {
+          "description": "Lisää tomaattimurska ja kerma.",
+          "ingredients": [
+            2,
+            3
+          ]
+        },
+        {
+          "description": "Mausta pippurisekoitus, grillausmauste, valkosipuli ja oregano.",
+          "ingredients": [
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "description": "Anna kiehua hetki."
+        }
+      ]
+    },
+    {
+      "title": "Kokoaminen",
+      "ingredients": [
+        {
+          "name": "jauhelihakastike",
+          "amount": [
+            "1/2"
+          ]
+        },
+        {
+          "name": "lasagnelevy",
+          "amount": []
+        },
+        {
+          "name": "juustokastike",
+          "amount": [
+            "1/2"
+          ]
+        },
+        {
+          "name": "juustoraaste",
+          "amount": [
+            "150",
+            "g"
+          ]
+        }
+      ],
+      "phases": [
+        {
+          "description": "Levitä vuoan pohjalle puolet jauhelihakastike.",
+          "ingredients": [
+            0
+          ]
+        },
+        {
+          "description": "Lisää lasagnelevy ja juustokastike.",
+          "ingredients": [
+            1,
+            2
+          ]
+        },
+        {
+          "description": "Lisää taas lasagnelevy.",
+          "ingredients": [
+            1
+          ]
+        },
+        {
+          "description": "Lisää loput jauhelihakastike ja vielä kerros lasagnelevy.",
+          "ingredients": [
+            0,
+            1
+          ]
+        },
+        {
+          "description": "Kaada päälle loput juustokastike ja ripottele pinnalle juustoraaste.",
+          "ingredients": [
+            2,
+            3
+          ]
+        },
+        {
+          "description": "Paista 175 °C:ssa noin 45 minuuttia."
+        }
+      ]
+    }
+  ]
+}

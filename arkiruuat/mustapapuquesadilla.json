@@ -1,0 +1,82 @@
+{
+  "title": "Mustapapuquesadilla",
+  "ingredients": [
+    {
+      "name": "sipuli",
+      "amount": []
+    },
+    {
+      "name": "rypsioljy",
+      "amount": []
+    },
+    {
+      "name": "mustapapu",
+      "amount": [
+        "500",
+        "g"
+      ]
+    },
+    {
+      "name": "tacomauste",
+      "amount": []
+    },
+    {
+      "name": "tortilla",
+      "amount": [
+        "8",
+        "kpl"
+      ]
+    },
+    {
+      "name": "juustoraaste",
+      "amount": []
+    },
+    {
+      "name": "avokado",
+      "amount": [
+        "2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "salsa",
+      "amount": [
+        "1",
+        "prk"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuullota sipuli rypsioljy.",
+      "ingredients": [
+        0,
+        1
+      ]
+    },
+    {
+      "description": "Lisää mustapapu ja tacomauste.",
+      "ingredients": [
+        2,
+        3
+      ]
+    },
+    {
+      "description": "Täytä tortilla seoksella ja juustoraaste.",
+      "ingredients": [
+        4,
+        5
+      ]
+    },
+    {
+      "description": "Paista pannulla, kunnes juusto sulaa."
+    },
+    {
+      "description": "Tarjoa avokado ja salsa kanssa.",
+      "ingredients": [
+        6,
+        7
+      ]
+    }
+  ]
+}

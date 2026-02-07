@@ -1,0 +1,82 @@
+{
+  "title": "Kukkakaalicurry",
+  "ingredients": [
+    {
+      "name": "sipuli",
+      "amount": []
+    },
+    {
+      "name": "valkosipuli",
+      "amount": [
+        "3",
+        "kyntta"
+      ]
+    },
+    {
+      "name": "oliivioljy",
+      "amount": [
+        "2",
+        "rkl"
+      ]
+    },
+    {
+      "name": "kukkakaali",
+      "amount": []
+    },
+    {
+      "name": "curry",
+      "amount": [
+        "1",
+        "rkl"
+      ]
+    },
+    {
+      "name": "tomaattimurska",
+      "amount": [
+        "1",
+        "prk"
+      ]
+    },
+    {
+      "name": "kookosmaito",
+      "amount": [
+        "1",
+        "prk"
+      ]
+    },
+    {
+      "name": "korianteri",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuullota sipuli ja valkosipuli oliivioljy.",
+      "ingredients": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "description": "Lisää kukkakaali ja curry.",
+      "ingredients": [
+        3,
+        4
+      ]
+    },
+    {
+      "description": "Lisää tomaattimurska ja kookosmaito.",
+      "ingredients": [
+        5,
+        6
+      ]
+    },
+    {
+      "description": "Hauduta ja viimeistele korianteri.",
+      "ingredients": [
+        7
+      ]
+    }
+  ]
+}

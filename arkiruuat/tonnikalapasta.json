@@ -1,0 +1,62 @@
+{
+  "title": "Tonnikalapasta",
+  "ingredients": [
+    {
+      "name": "taysjyvapasta",
+      "amount": [
+        "400",
+        "g"
+      ]
+    },
+    {
+      "name": "paseerattu tomaatti",
+      "amount": []
+    },
+    {
+      "name": "kaurakerma",
+      "amount": [
+        "2",
+        "dl"
+      ]
+    },
+    {
+      "name": "tonnikala",
+      "amount": [
+        "1",
+        "prk"
+      ]
+    },
+    {
+      "name": "timjami",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Keitä taysjyvapasta.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Sekoita paseerattu tomaatti, kaurakerma ja tonnikala.",
+      "ingredients": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "description": "Mausta timjami.",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "description": "Yhdistä kastike keitettyyn taysjyvapasta.",
+      "ingredients": [
+        0
+      ]
+    }
+  ]
+}

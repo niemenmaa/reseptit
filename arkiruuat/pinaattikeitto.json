@@ -1,0 +1,43 @@
+{
+  "title": "Pinaattikeitto",
+  "ingredients": [
+    {
+      "name": "pinaattikeittopaketti",
+      "amount": [
+        "2",
+        "pkt"
+      ]
+    },
+    {
+      "name": "pakastepinaatti",
+      "amount": [
+        "1",
+        "pussi"
+      ]
+    },
+    {
+      "name": "koskenlaskija",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuumenna pinaattikeittopaketti.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Lisää pakastepinaatti.",
+      "ingredients": [
+        1
+      ]
+    },
+    {
+      "description": "Sulata joukkoon koskenlaskija.",
+      "ingredients": [
+        2
+      ]
+    }
+  ]
+}

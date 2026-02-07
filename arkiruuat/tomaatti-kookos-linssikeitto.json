@@ -1,0 +1,137 @@
+{
+  "title": "Tomaatti-kookos-linssikeitto",
+  "ingredients": [
+    {
+      "name": "sipuli",
+      "amount": [
+        "2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "oliivioljy",
+      "amount": [
+        "2",
+        "rkl"
+      ]
+    },
+    {
+      "name": "kasvisliemikuutio",
+      "amount": [
+        "2",
+        "kpl"
+      ]
+    },
+    {
+      "name": "punainen linssi",
+      "amount": [
+        "1",
+        "prk"
+      ]
+    },
+    {
+      "name": "tomaattimurska",
+      "amount": [
+        "800",
+        "g"
+      ]
+    },
+    {
+      "name": "juustokumina",
+      "amount": [
+        "2",
+        "tl"
+      ]
+    },
+    {
+      "name": "curry",
+      "amount": [
+        "2",
+        "tl"
+      ]
+    },
+    {
+      "name": "korianteri",
+      "amount": [
+        "1",
+        "tl"
+      ]
+    },
+    {
+      "name": "kurkuma",
+      "amount": [
+        "1",
+        "tl"
+      ]
+    },
+    {
+      "name": "kookosmaito",
+      "amount": [
+        "1",
+        "tlk"
+      ]
+    },
+    {
+      "name": "sokeri",
+      "amount": [
+        "1",
+        "tl"
+      ]
+    },
+    {
+      "name": "suola",
+      "amount": []
+    },
+    {
+      "name": "pippuri",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuori ja pilko sipuli.",
+      "ingredients": [
+        0
+      ]
+    },
+    {
+      "description": "Kuullota sipuli oliivioljy.",
+      "ingredients": [
+        0,
+        1
+      ]
+    },
+    {
+      "description": "Lisää kasvisliemikuutio, punainen linssi ja tomaattimurska.",
+      "ingredients": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "description": "Mausta juustokumina, curry, korianteri ja kurkuma.",
+      "ingredients": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "description": "Keitä miedolla lämmöllä noin 20 minuuttia."
+    },
+    {
+      "description": "Lisää kookosmaito, sokeri, suola ja pippuri.",
+      "ingredients": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "description": "Soseuta."
+    }
+  ]
+}

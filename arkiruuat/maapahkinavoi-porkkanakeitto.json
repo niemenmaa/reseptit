@@ -1,0 +1,150 @@
+{
+  "title": "Maapähkinävoi-porkkanakeitto",
+  "ingredients": [
+    {
+      "name": "porkkana",
+      "amount": [
+        "500",
+        "g"
+      ]
+    },
+    {
+      "name": "sipuli",
+      "amount": [
+        "100",
+        "g"
+      ]
+    },
+    {
+      "name": "valkosipuli",
+      "amount": [
+        "2",
+        "kyntta"
+      ]
+    },
+    {
+      "name": "chili",
+      "amount": [
+        "1",
+        "kpl"
+      ]
+    },
+    {
+      "name": "oljy",
+      "amount": [
+        "1",
+        "rkl"
+      ]
+    },
+    {
+      "name": "vesi",
+      "amount": [
+        "5",
+        "dl"
+      ]
+    },
+    {
+      "name": "kasvisfondi",
+      "amount": [
+        "1.5",
+        "rkl"
+      ]
+    },
+    {
+      "name": "kaurakerma",
+      "amount": [
+        "2",
+        "dl"
+      ]
+    },
+    {
+      "name": "maapahkinavoi",
+      "amount": [
+        "2",
+        "rkl"
+      ]
+    },
+    {
+      "name": "limetti",
+      "amount": [
+        "1",
+        "rkl"
+      ]
+    },
+    {
+      "name": "mustapippuri",
+      "amount": [
+        "1/2",
+        "tl"
+      ]
+    },
+    {
+      "name": "punainen linssi",
+      "amount": [
+        "230",
+        "g"
+      ]
+    },
+    {
+      "name": "korianteri",
+      "amount": []
+    }
+  ],
+  "phases": [
+    {
+      "description": "Kuori ja kuutioi porkkana ja sipuli.",
+      "ingredients": [
+        0,
+        1
+      ]
+    },
+    {
+      "description": "Hienonna valkosipuli ja chili, säästä osa koristeluun.",
+      "ingredients": [
+        2,
+        3
+      ]
+    },
+    {
+      "description": "Kuumenna oljy ja kuullota kasvikset.",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "description": "Lisää vesi ja kasvisfondi.",
+      "ingredients": [
+        5,
+        6
+      ]
+    },
+    {
+      "description": "Keitä kannen alla noin 20 minuuttia."
+    },
+    {
+      "description": "Soseuta."
+    },
+    {
+      "description": "Lisää kaurakerma, maapahkinavoi, limetti ja mustapippuri.",
+      "ingredients": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "description": "Lisää punainen linssi ja kuumenna.",
+      "ingredients": [
+        11
+      ]
+    },
+    {
+      "description": "Koristele chili ja korianteri.",
+      "ingredients": [
+        3,
+        12
+      ]
+    }
+  ]
+}
